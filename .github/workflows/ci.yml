@@ -1,4 +1,3 @@
-
 name: CI — verify and publish image
 
 on:

@@ -8,5 +8,5 @@ CI: Pylint → pytest → Docker build → smoke-test → GHCR.
 В Pull Request выполняются проверки без push.
 
 - Health endpoint: `/health`;
-- Образ: `ghcr.io/<login>/devops-ci-app`;
+- Образ: `ghcr.io/barefootdesert/devops-ci-app`;
 - Основной workflow: `.github/workflows/ci.yml`.
